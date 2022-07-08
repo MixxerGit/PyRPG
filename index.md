@@ -1,4 +1,3 @@
-# RPGs in Python, easy.
 ## Overview
 I made some software in Python that's basically just a bad RPG.
 ## Download
