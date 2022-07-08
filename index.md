@@ -1,4 +1,5 @@
+#PyRPG
 ## Overview
-I made some software in Python that's basically just a bad RPG.
+Make a bad RPG in Python, I guess.
 ## Download
 Not finished yet!
